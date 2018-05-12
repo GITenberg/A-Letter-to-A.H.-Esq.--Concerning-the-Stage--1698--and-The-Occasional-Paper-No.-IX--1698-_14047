@@ -24,6 +24,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14047#A-Letter-to-A.H.-Esq.--Concerning-the-Stage--1698--and-The-Occasional-Paper-No.-IX--1698-
 gutenberg_issued: '2004-11-15'
 gutenberg_type: Text
 identifiers:
