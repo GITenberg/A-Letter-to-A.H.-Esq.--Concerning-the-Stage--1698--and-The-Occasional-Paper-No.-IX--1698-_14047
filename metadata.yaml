@@ -1,0 +1,46 @@
+_repo: A-Letter-to-A.H.-Esq.--Concerning-the-Stage--1698--and-The-Occasional-Paper-No.-IX--1698-_14047
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Swedenberg, H. T. (Hugh Thomas)
+    aliases:
+    - Swedenberg, Hugh Thomas
+    - Swedenberg, Thomas
+    birthdate: 1906
+    deathdate: 1978
+    gutenberg_agent_id: '35359'
+    url: http://www.gutenberg.org/2009/agents/35359
+  contributors:
+  - agent_name: Hopkins, Charles
+    gutenberg_agent_id: '35361'
+    url: http://www.gutenberg.org/2009/agents/35361
+  - agent_name: Willis, Richard
+    birthdate: 1664
+    deathdate: 1734
+    gutenberg_agent_id: '35360'
+    url: http://www.gutenberg.org/2009/agents/35360
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Willis_(bishop)
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2004-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14047'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1946'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 03
+subjects:
+- !lcc 'PN'
+- !lcsh 'Theater -- Moral and ethical aspects -- Early works to 1800'
+tableOfContents: "A Letter to A.H. [Anthony Hammond, pamphleteer, small poet, and\
+  \ politician] Esq, Concerning the Stage, by Anonymous [probably Charles Hopkins]\
+  \ --\r\nThe Occasional Paper: Number IX, Containing Some Considerations About the\
+  \ Danger of Going to Plays, attributed to Richard Willis."
+title: A Letter to A.H. Esq.; Concerning the Stage (1698) and The Occasional Paper
+  No. IX (1698)
+url: http://www.gutenberg.org/ebooks/14047
